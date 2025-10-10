@@ -1,0 +1,3 @@
+Aashna Anand is a freshman studying Computer Science with an interest in AI and Machine Learning. 
+She has experience in Python, data analysis, and web development. 
+Her goal is to work in applied AI and build human-centered technology.
