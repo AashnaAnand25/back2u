@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Back2U - Chat with Your Future Self 🚀")
+st.title("Back2U: Chat with Your Future Self 🚀")
 
 user_input = st.text_input("Type your message to future you:")
 
