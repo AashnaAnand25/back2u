@@ -1,4 +1,3 @@
-# backend/llm_response.py
 from groq import Groq
 from backend.rag_pipeline import create_vector_store, retrieve_relevant
 import os
